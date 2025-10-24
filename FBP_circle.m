@@ -4,7 +4,7 @@ format long
 
 %% visualization setting
 is_viz = true;
-
+% number of data points generated on the boundary
 N = [400];
 
 %initial condition
